@@ -1,0 +1,141 @@
+{
+  "test_suites": [
+    {
+      "command": "python3 -B line-3/tools/citation-reanchor/test_reanchor.py -v",
+      "passed": 14
+    },
+    {
+      "command": "python3 -B line-3/tools/evidence-search/test_search.py -v",
+      "passed": 12
+    }
+  ],
+  "demo_exit_code": 0,
+  "demo_original": "zto.md:3-6",
+  "demo_relocated": "zto.md:5-8",
+  "unchanged_goal_and_older_records": [
+    {
+      "path": "line-3/GOAL.md",
+      "sha256": "a973f56b1c5d1c38d8ed3dca764ea266eee83f29648108412aa92db43e1462da"
+    },
+    {
+      "path": "dist/line-3/01.json",
+      "sha256": "8ac464803fd80fae513ea8f5bd99008df8aa530b768c3ec0252582aab8ad26d2"
+    },
+    {
+      "path": "dist/line-3/02.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/03.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/04.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/05.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/06.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/07.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/08.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/09.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/10.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/11.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/12.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/13.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/14.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/15.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/16.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/17.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/18.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/19.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/20.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/21.json",
+      "sha256": "db0e739c4538bdacd1933ca08d18a7e1df3f686c37792fa62e6692757745de54"
+    },
+    {
+      "path": "dist/line-3/22.json",
+      "sha256": "125e938b29ea74f66f6dc35800e39e8ff62807057fa75579bd0b87612bfa8e14"
+    },
+    {
+      "path": "dist/line-3/23.json",
+      "sha256": "d7280541f4693114e44921ebb54fe5d3dd3dd18adde83e3addca73d1039281aa"
+    },
+    {
+      "path": "dist/line-3/24.json",
+      "sha256": "5ea1e8807451c10f9895096d40d2c49e4c36d4646e17ee449205ff0ba9b6d801"
+    },
+    {
+      "path": "dist/line-3/25.json",
+      "sha256": "a4766bd0150715d8a42e7720f6b2d3d03ca2d874d34d56d62602d48ad3d42954"
+    },
+    {
+      "path": "dist/line-3/26.json",
+      "sha256": "6d863adc8537b2a0a801766e73b9fd3b9e608d0fd436f652837c29b0b48ad4b4"
+    },
+    {
+      "path": "dist/line-3/27.json",
+      "sha256": "c48aa8887fbb2cf4c851286e0a88676302ab5a0e7e45beb4ffa0cd7454db665e"
+    },
+    {
+      "path": "dist/line-3/28.json",
+      "sha256": "88c304c04deafd04aeb9c95f6efe5ed7dda0f97d146dcc6954389af52e81ceb0"
+    },
+    {
+      "path": "dist/line-3/29.json",
+      "sha256": "411fb4ab21d627907ee612d8faa957331806ace13997df79b11afbc1a97de01f"
+    }
+  ],
+  "wall_format_dimensions_record_hash_and_continuation": "passed",
+  "jpeg_format_dimensions_and_size": "passed",
+  "visual_review": "completed; see IMAGE-30.json and MARK-30.md",
+  "unmet_visual_requirements": []
+}

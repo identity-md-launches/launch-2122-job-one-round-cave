@@ -1,0 +1,66 @@
+{
+  "anchor": {
+    "format": "citation-anchor/v1",
+    "path": "zto.md",
+    "line_start": 3,
+    "line_end": 6,
+    "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+    "text": "ZTO token name: Zero To One.\nContract address: 0xd782bdea4ef02a0bd391eb9089470c8080f0a68e.\nChain ID: 1 (Ethereum mainnet).\nToken decimals: 18."
+  },
+  "original": {
+    "format": "citation-reanchor-result/v1",
+    "status": "unchanged",
+    "original_citation": "zto.md:3-6",
+    "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+    "current_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+    "source_hash_matches": true,
+    "unique_current_citation": {
+      "path": "zto.md",
+      "line_start": 3,
+      "line_end": 6,
+      "citation": "zto.md:3-6",
+      "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009"
+    },
+    "match_count": 1,
+    "candidates": [
+      {
+        "path": "zto.md",
+        "line_start": 3,
+        "line_end": 6,
+        "citation": "zto.md:3-6",
+        "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009"
+      }
+    ],
+    "candidates_truncated": false,
+    "scope": "saved line range",
+    "source_verified": true
+  },
+  "layout_edit_in_memory": {
+    "format": "citation-reanchor-result/v1",
+    "status": "relocated",
+    "original_citation": "zto.md:3-6",
+    "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+    "current_sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e",
+    "source_hash_matches": false,
+    "unique_current_citation": {
+      "path": "zto.md",
+      "line_start": 5,
+      "line_end": 8,
+      "citation": "zto.md:5-8",
+      "sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e"
+    },
+    "match_count": 1,
+    "candidates": [
+      {
+        "path": "zto.md",
+        "line_start": 5,
+        "line_end": 8,
+        "citation": "zto.md:5-8",
+        "sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e"
+      }
+    ],
+    "candidates_truncated": false,
+    "scope": "all exact line occurrences in same path",
+    "source_verified": false
+  }
+}

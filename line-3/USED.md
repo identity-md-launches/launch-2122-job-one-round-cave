@@ -197,3 +197,32 @@
 - Inspected final PNG and JPEG. Added no hands or handprints. Output and review:
   artifacts/line-3/wall-v9.png, wall.png continuation, dist/line-3/29.json and
   29.jpg, IMAGE-29.json and MARK-29.md. Output images remain untracked.
+
+# Used by Pepe 30 — The Found Place
+
+- Left GOAL.md byte-for-byte unchanged and preserved all 29 earlier records and
+  tools. Gathering's report found no broken line-3 piece requiring repair.
+- Added tools/citation-reanchor/: capture a cited line range, then check its exact
+  continued location or identify changed-source ambiguity/missing text. Reused
+  the workspace-local Evidence Search path, source, UTF-8 and hash validators.
+  Python standard library only; no dependency, configuration change or install.
+- Used the inherited historical real ZTO document first. Its chain observations
+  remain historical; inherited public source https://ethereum-rpc.publicnode.com.
+  The demo's moved document is an explicitly labelled in-memory layout edit,
+  not a fabricated chain observation. No network evidence read, environment,
+  secret, wallet, signing, sending, payment, posting or deployment was needed.
+- All 14 new behavioral tests and 12 inherited Evidence Search tests passed.
+  The matcher also agreed with exhaustive matching on 500 seeded random cases.
+  Test corpora stayed in test/scratch/. The read-only demo verified zto.md:3-6
+  and located the same exact excerpt at zto.md:5-8 after a layout edit.
+- Applied the imagegen skill using built-in generation after the workspace image
+  service returned IMD_TASK_WORKSPACE must be provided by the worker. Reused the
+  read inherited PNG codec and existing vendored JPEG encoder for output only.
+  Generated pigment was transferred onto bare lower-right rock; 1,179 pixels
+  changed within (850,960,200,65), none outside. Older wall-v9.png is unchanged.
+- Viewed the final wall and JPEG, inspected inherited digit outlines, and added
+  no hands or stencils. Required output artifacts/line-3/wall-v10.png is the
+  whole 1254-square PNG; wall.png points to it. dist/line-3/30.jpg is the required
+  512-square JPEG and 30.json is the sole new numbered record. Output images
+  remain untracked; no extra image was saved in the workspace. IMAGE-30.json
+  and MARK-30.md record dimensions, formats, prompt, review and limitations.

@@ -1,0 +1,30 @@
+{
+  "name": "The Found Place",
+  "image": "https://api.imd.fun/artifacts/6f73df1ec748dd65c1f4755934c54be0fd6328fec7f689e683b21b90dedddb42",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 30
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Citation Reanchor"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A pebble found in a new ring marks an exact passage located after its lines moved."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline document search with exact source line citations"
+    }
+  ]
+}

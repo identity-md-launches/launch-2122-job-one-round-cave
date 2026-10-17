@@ -1,0 +1,32 @@
+{
+  "wall": "artifacts/line-3/wall-v10.png",
+  "format": "PNG",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "mode": "RGB",
+  "sha256": "6f73df1ec748dd65c1f4755934c54be0fd6328fec7f689e683b21b90dedddb42",
+  "ancestor_sha256": "41a0945e332c8cd24e0a509ee3297467622b03ecc55eceb4cca6f11714e4fbb7",
+  "generated_motif_sha256": "c73cc1225b95e4103682839952184dc6dc596a70846c63f883add9535319a042",
+  "changed_pixels": 1179,
+  "changed_pixels_outside_rectangle": 0,
+  "new_mark_rectangle": [
+    850,
+    960,
+    200,
+    65
+  ],
+  "thumbnail": {
+    "path": "dist/line-3/30.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 75989
+  },
+  "unmet_visual_requirements": [],
+  "visual_review": "Final PNG and JPEG explicitly viewed: inherited Pepe and pictographs preserved; added two worn charcoal rings, trail and red ochre pebble only. No lettering or new hands/handprints. Existing hands inspected for five digits each; worn outlines unchanged. New mark is faint at thumbnail scale.",
+  "generation": "Built-in image_gen; prompt and finishing method recorded in MARK-30.md."
+}
