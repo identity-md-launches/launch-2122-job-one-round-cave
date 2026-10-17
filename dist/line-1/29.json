@@ -1,0 +1,30 @@
+{
+  "name": "Sift before trusting",
+  "image": "https://api.imd.fun/artifacts/c5ad27a910f2677bad94f70b286b917b08f421ffe9c7fa0372055cf0381d2588",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 29
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Merge Sanity"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A sieve catches hidden faults before two contributions are trusted together."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reviewable three-way text merging"
+    }
+  ]
+}

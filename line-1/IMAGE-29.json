@@ -1,0 +1,34 @@
+{
+  "ancestor_sha256": "582ad290b64938f9af7770512d9a108d54f9b1e98c88be82188a53d16bdf88f7",
+  "wall_sha256": "c5ad27a910f2677bad94f70b286b917b08f421ffe9c7fa0372055cf0381d2588",
+  "wall_paths": [
+    "artifacts/line-1/wall-v10.png",
+    "artifacts/line-1/wall.png"
+  ],
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "format": "PNG",
+  "mode": "RGB",
+  "thumbnail": {
+    "path": "dist/line-1/29.jpg",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "bytes": 76056
+  },
+  "mark_rectangle": [
+    350,
+    920,
+    210,
+    140
+  ],
+  "changed_pixels": 6145,
+  "changed_pixels_outside_rectangle": 0,
+  "method": "Built-in imagegen sieve pigment blended only onto unused rock.",
+  "unmet_visual_requirements": [],
+  "location_conflict": "Used the specifically required dist/line-1/29.jpg despite the general no-pictures-outside-artifacts sentence."
+}

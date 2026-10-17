@@ -1,0 +1,138 @@
+{
+  "source_sha256": {
+    "line-1/tools/threeway/merge.py": "256c6e4f169ac46d7ae68eb6ee5475a4915211ad6efa89edca75b1cbe8623b0e",
+    "line-1/tools/threeway/test_merge.py": "e30ac1fb3a648708aff51d3e74d0203bceec726d95edbecf716f785c5b7eabe4",
+    "line-1/tools/threeway/README.md": "99eac1d91323b3b51e57eebbc4338bb4715519bec5d51fa546b5e56acd87e003",
+    "line-1/tools/threeway/examples/base.txt": "b1968dd85fec4bc0786e41f49d6b1a6e91f57cd91384889ce54f516950e7c9f6",
+    "line-1/tools/threeway/examples/ours.txt": "232549fb5f6a02eb45e63a23838b128101683751ffd90027a36a1de7634eabfb",
+    "line-1/tools/threeway/examples/theirs.txt": "6a65c2b8d1538edc0f0fc66e523fe918f9fcf32e1e03ecc8194427383c5fd353"
+  },
+  "files_per_tree": 6,
+  "source_bytes_unchanged": true,
+  "independent_readme_and_code_comments": {
+    "blocked": 0,
+    "deleted": 0,
+    "checked": 6,
+    "findings": 0
+  },
+  "clean_text_merge_with_python_error": {
+    "text_merge_clean": true,
+    "passed": false,
+    "path": "merge.py",
+    "findings": [
+      {
+        "check": "python-compile",
+        "classification": "also-in-branch-or-branch-absent"
+      }
+    ],
+    "python_check": {
+      "ok": false,
+      "problem": "syntax-error",
+      "line": 24,
+      "column": 26
+    }
+  },
+  "demo_both_branches_valid_candidate_invalid": {
+    "schema": "merge-sanity/v1",
+    "passed": false,
+    "text_merge_clean": true,
+    "inputs": {
+      "base": {
+        "sha256": "8dce90b5ab3b2c586cdf6d69d922268e10330e31290a400a56b32b59df35b572",
+        "files": 1,
+        "directories": 0,
+        "bytes": 45
+      },
+      "ours": {
+        "sha256": "19217d603b1df13386cadef03f9f38e9562597e9d8091bb8a6fb566c2364539b",
+        "files": 1,
+        "directories": 0,
+        "bytes": 47
+      },
+      "theirs": {
+        "sha256": "1e9566f49179b96d5d579b109836d234d9aafd89890cf2b7a79c350f5d4e21b2",
+        "files": 1,
+        "directories": 0,
+        "bytes": 46
+      }
+    },
+    "counts": {
+      "blocked": 0,
+      "deleted": 0,
+      "checked": 0,
+      "findings": 1
+    },
+    "files": [
+      {
+        "path": "settings.json",
+        "merge_status": "merged",
+        "candidate_sha256": "43d5c1fcb2be815e9128c8bac2c069d2eee4ae43ca0514436ec7ec7469ce2d9f",
+        "status": "findings",
+        "checks": {
+          "conflict-markers": {
+            "ok": true,
+            "count": 0,
+            "lines": [],
+            "locations_truncated": false
+          },
+          "strict-json": {
+            "ok": false,
+            "problem": "duplicate-key-or-nonfinite-literal"
+          }
+        },
+        "sources": {
+          "base": {
+            "conflict-markers": {
+              "ok": true,
+              "count": 0,
+              "lines": [],
+              "locations_truncated": false
+            },
+            "strict-json": {
+              "ok": true
+            }
+          },
+          "ours": {
+            "conflict-markers": {
+              "ok": true,
+              "count": 0,
+              "lines": [],
+              "locations_truncated": false
+            },
+            "strict-json": {
+              "ok": true
+            }
+          },
+          "theirs": {
+            "conflict-markers": {
+              "ok": true,
+              "count": 0,
+              "lines": [],
+              "locations_truncated": false
+            },
+            "strict-json": {
+              "ok": true
+            }
+          }
+        },
+        "findings": [
+          {
+            "check": "strict-json",
+            "classification": "candidate-only"
+          }
+        ]
+      }
+    ],
+    "limits": [
+      "Selected static checks only; passing is neither semantic correctness nor approval.",
+      "Python is compiled but never executed, imported, or used to resolve imports.",
+      "Python validity depends on the interpreter running this tool.",
+      "JSON requires unique keys, finite numeric literals and depth <=128; no schema is checked.",
+      "Marker-like lines can be intentional prose; inspect every finding.",
+      "Other file formats receive only the conflict-marker check.",
+      "Bounded UTF-8 stable workspace trees; no atomic snapshots or race protection.",
+      "Hashes identify bytes, not authors. No files are written."
+    ]
+  },
+  "authority": "Local observations only; no independent certification."
+}

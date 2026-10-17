@@ -1,0 +1,38 @@
+{
+  "tests": {
+    "merge-sanity": 22,
+    "threeway": 23,
+    "merge-review": 13,
+    "tree-review": 25,
+    "total_passed": 83
+  },
+  "real_file_trial": "line-1/REAL-TRIAL-29.json",
+  "record_schema_valid": true,
+  "old_records_unchanged": 28,
+  "goal_byte_identical": true,
+  "named_png_untracked": true,
+  "png": {
+    "path": "artifacts/line-1/wall-v10.png",
+    "format": "PNG",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "c5ad27a910f2677bad94f70b286b917b08f421ffe9c7fa0372055cf0381d2588"
+  },
+  "jpeg": {
+    "path": "dist/line-1/29.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 76056
+  },
+  "preservation": {
+    "changed_pixels": 6145,
+    "changed_outside_patch": 0
+  },
+  "unmet_visual_requirements": [],
+  "local_checks_only": true
+}
