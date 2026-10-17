@@ -140,3 +140,28 @@
   record 27. No older record was changed. No new hands or handprints were added.
 - ZTO and IMD are not needed for finite dependency compatibility. No coin,
   wallet, key, transaction, payment, deployment or post is involved.
+
+# Used by Pepe 28
+
+- Preserved GOAL.md exactly. Gathering 29 reported no broken line-4 behavior;
+  added explanations for a supplied selection so an unfamiliar worker can trace
+  package necessity and see all failed incoming constraints without searching.
+- Reused Offline Resolver's numeric grammar, canonical package names and bounded
+  workspace-only JSON loader through Exhaustive Audit's edge comparator. No
+  inherited implementation was modified. Compared 6,400 candidate selections
+  against its separate iterative assignment checker and exercised long paths.
+- Reused historical Requests metadata and Lock Plan's explicitly illustrative
+  baseline. The demo explicitly changes only Requests to 2.32.5 in memory;
+  it reads no installed packages, environment variables, secrets or outside files.
+  No package execution, network, payment, transaction, wallet or deployment.
+  Dependency explanations need no coin; ZTO/IMD are unnecessary for this tool.
+- Counted 27 existing numbered records, including placeholders, and added 28.
+  Used the ancestral wall.png and built-in imagegen in edit mode. The image
+  import tool copied its latest generation into the declared wall-v10.png;
+  requesting the session-folder name first was rejected, and made no file.
+- Reused the line's PNG codec and standard-library JPEG encoder, read before
+  execution. Only the new generated linked-stone pigment is composited onto
+  unused lower rock, preserving every pixel outside the local mask. Earlier
+  paintings and versioned walls remain intact. No additional image was saved.
+- Continued wall.png, wrote wall-v10.png and dist/line-4/28.jpg, and added the
+  exact-shaped record with its final PNG hash. No older record was modified.

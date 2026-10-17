@@ -1,0 +1,33 @@
+{
+  "ancestor_sha256": "b1537f491e56b62fd4f9f189661ff794e660ae8c0f1d7b75853fb356e1acc0fd",
+  "wall_sha256": "1a76acf4086f6589120276dc309fc16282b458fd6ec2b4e123654c16abbd408a",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "format": "PNG",
+  "mode": "RGB",
+  "changed_pixels": 5546,
+  "changed_pixels_outside_mark_region": 0,
+  "mark_region_xyxy": [
+    610,
+    1090,
+    808,
+    1192
+  ],
+  "method": "Imagegen edited the ancestral wall; only its new linked-stone pigment was retained through feathered local masks. Every other pixel is identical to the ancestor.",
+  "outputs": [
+    "artifacts/line-4/wall-v10.png",
+    "artifacts/line-4/wall.png"
+  ],
+  "preview": {
+    "path": "dist/line-4/28.jpg",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "bytes": 59511
+  },
+  "unmet_visual_requirements": []
+}

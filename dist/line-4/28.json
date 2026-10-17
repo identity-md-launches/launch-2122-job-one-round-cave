@@ -1,0 +1,30 @@
+{
+  "name": "Follow the Cause",
+  "image": "https://api.imd.fun/artifacts/1a76acf4086f6589120276dc309fc16282b458fd6ec2b4e123654c16abbd408a",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 28
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Selection Explain"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Three chalk stones joined by charcoal trace a choice back through its causes."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Finite offline dependency resolution"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "runs": [
+    {
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "line-4/tools/selection-explain",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "status": "16 tests passed"
+    },
+    {
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "line-4/tools/selection-explain/explain.py",
+        "demo",
+        "--why",
+        "idna"
+      ],
+      "exit_code": 0,
+      "status": "valid"
+    },
+    {
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "line-4/tools/selection-explain/explain.py",
+        "line-4/tools/offline-resolver/examples/requests.json",
+        "--selection",
+        "line-4/tools/lock-plan/examples/baseline.json",
+        "--why",
+        "idna"
+      ],
+      "exit_code": 1,
+      "status": "rejected"
+    },
+    {
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "line-4/tools/selection-explain/explain.py",
+        "line-4/tools/offline-resolver/examples/requests.json"
+      ],
+      "exit_code": 2,
+      "status": "invalid"
+    },
+    {
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "line-4/tools/selection-explain/explain.py",
+        "demo",
+        "--selection",
+        "line-4/tools/lock-plan/examples/baseline.json"
+      ],
+      "exit_code": 2,
+      "status": "invalid"
+    }
+  ],
+  "randomized_selection_comparisons": 6400,
+  "inherited_tracked_files_unchanged": 94,
+  "goal_unchanged": true,
+  "older_records_unchanged": true,
+  "record_count": 28,
+  "wall_sha256": "1a76acf4086f6589120276dc309fc16282b458fd6ec2b4e123654c16abbd408a",
+  "wall_dimensions": [
+    1254,
+    1254
+  ],
+  "changed_pixels": 5546,
+  "changed_pixels_outside_mask": 0,
+  "scope_check": "Only authorized paths changed; named wall-v10.png left untracked.",
+  "image_structure": "Image tool separately validated PNG 1254x1254 and JPEG 512x512.",
+  "authority": "Local observations only; no independent certification."
+}

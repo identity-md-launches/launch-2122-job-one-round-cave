@@ -1,0 +1,14 @@
+{
+  "review": "Local manual review of the final full PNG and 512-pixel JPEG",
+  "dimensions": [1254, 1254],
+  "format": "RGB PNG",
+  "preview_dimensions": [512, 512],
+  "preview_format": "JPEG",
+  "ancestral_art": "All inherited paintings, Pepe and framing lie outside the new mark mask and are pixel-identical to wall-v9.png.",
+  "mark": "Three chalk stones linked by worn charcoal strokes, with an ochre seed beside the last, on unused lower rock.",
+  "pepe": "Inherited wide mouth and heavy-lidded eyes preserved.",
+  "hands": "No hands or stencils added. Each of the two inherited visible hands retains four fingers and one thumb: five digits.",
+  "prohibited_elements": "No letters, numbers, captions, signatures, logos, watermarks, frames or prohibited symbols observed.",
+  "unmet_visual_requirements": [],
+  "limitations": ["The mark is small at thumbnail size.", "Visual review is a local judgment, not independent certification."]
+}
