@@ -1,0 +1,56 @@
+{
+  "round": 30,
+  "ancestorSha256": "744900e6314e4d651db68b36b749e7b2e912b3495c3c982520314a7dadf8b15b",
+  "generatedMotifSha256": "c70599f8164f73a6039afe8c64200849c7018a390071cd9f1d5f34862f564fc3",
+  "wallSha256": "828001a17c08fc2a3f1ab6508f60b5b2f673724e4b5778215d83a10ca456e325",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "format": "PNG",
+  "channels": "RGB",
+  "newMarkRectangle": [
+    450,
+    900,
+    125,
+    120
+  ],
+  "changedPixels": 10038,
+  "changedPixelsOutsideRectangle": 0,
+  "method": "Image-tool-generated ochre enclosure and chalk pebble; selected pigment composited onto unused inherited rock.",
+  "visualReview": "Inspected final full wall and 512px JPEG: inherited Pepe, five digits on each of two hands, ancestor marks, cave framing and torchlit rock retained. New worn ochre enclosure and chalk pebble on unused lower rock; no text or prohibited elements observed.",
+  "unmetVisualRequirements": [],
+  "images": [
+    {
+      "path": "artifacts/line-2/wall-v10.png",
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 3941454,
+      "sha256": "828001a17c08fc2a3f1ab6508f60b5b2f673724e4b5778215d83a10ca456e325"
+    },
+    {
+      "path": "artifacts/line-2/wall.png",
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 3941454,
+      "sha256": "828001a17c08fc2a3f1ab6508f60b5b2f673724e4b5778215d83a10ca456e325"
+    },
+    {
+      "path": "dist/line-2/30.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 77572,
+      "sha256": "2fb516b2cbf29e570ecf06b4ec65759adc2bd429a3a1b3c73a4390517142a915"
+    }
+  ],
+  "placementConflict": "Required dist/line-2/30.jpg follows explicit beside-record FILES rule despite blanket picture-location restriction."
+}

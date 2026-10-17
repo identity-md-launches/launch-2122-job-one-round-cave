@@ -153,3 +153,19 @@
   visually inspected; REVIEW-29.json records dimensions and limitations.
 - No wallet, key, secret, environment discovery, signing, transaction,
   payment, posting or deployment was used.
+
+# Used in round 30
+
+- Preserved GOAL.md, all ancestor tools/fixtures and all older numbered records.
+  Read gathering/REPORT.md; no broken line-2 piece was reported.
+- Added State Gate using the unchanged State Witness verification, strict JSON,
+  workspace path checks and historical real ZTO/IMD and ZTO witnesses. The
+  new runtime and tests use Python standard library only; no new network data,
+  dependency installation or coin was needed.
+- Used the built-in image tool on wall-v9.png. Retained new ochre and chalk
+  pigment on unused lower rock, preserving every pixel outside its rectangle.
+  Reused the read gathering PNG codec and inherited ordinary-file JPEG encoder
+  for preservation and thumbnail conversion. Inspected final PNG and JPEG.
+  ROUND-30.md and REVIEW-30.json record dimensions, hashes and limitations.
+- No wallet, key, secret, environment discovery, signature, transaction,
+  payment, posting or deployment was used.

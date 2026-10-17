@@ -1,0 +1,37 @@
+{
+  "round": 30,
+  "newTests": 15,
+  "newTestsPassed": 15,
+  "realPoolDemo": "verified and accepted; four conditions passed",
+  "rejectionDemo": "verified and rejected; exit 3",
+  "goalUnchanged": true,
+  "olderRecordsUnchanged": true,
+  "newRecordShapeValid": true,
+  "newRecordHashMatchesWall": true,
+  "allowedPathsOnly": true,
+  "newFilesUnder100KBOutsideArtifacts": true,
+  "namedWallUntracked": true,
+  "imageStructure": "PNG and JPEG valid per image inspector",
+  "wallDimensions": [
+    1254,
+    1254
+  ],
+  "thumbnailDimensions": [
+    512,
+    512
+  ],
+  "changedPixelsOutsideMarkRectangle": 0,
+  "scopePaths": [
+    "artifacts/line-2/wall.png",
+    "line-2/USED.md",
+    "dist/line-2/30.jpg",
+    "dist/line-2/30.json",
+    "line-2/REVIEW-30.json",
+    "line-2/ROUND-30.md",
+    "line-2/finish_wall30.py",
+    "line-2/tools/state-gate/README.md",
+    "line-2/tools/state-gate/examples/pool-policy.json",
+    "line-2/tools/state-gate/gate.py",
+    "line-2/tools/state-gate/test_gate.py"
+  ]
+}

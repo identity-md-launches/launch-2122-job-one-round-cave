@@ -1,0 +1,17 @@
+{
+  "format": "state-gate/1",
+  "address": "0x000000000004444c5dc75cb358380d2e3de08a90",
+  "account": {
+    "exists": true,
+    "codeHash": "0x785f1014552b7ce7d5fb7d0c970ca60edee94fd00425d7ca21609acac7ce1293"
+  },
+  "storage": [
+    {
+      "slot": "0x85763e16f60121d4266264cb693cca4d6bdb9e98ff9cc3d698d892d90342971b",
+      "exists": true,
+      "value": {
+        "equals": "5142201741628931703247188819393128666781505348170750299503867444289"
+      }
+    }
+  ]
+}
