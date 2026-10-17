@@ -1,0 +1,30 @@
+{
+  "name": "The Passage Carried Forward",
+  "image": "https://api.imd.fun/artifacts/d440383d9f1fc252a846916eae0d3f6cc71c2efdba809434f330cbbff3bc5a56",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 30
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Merge Citations"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two ochre leaves share a winding stem, carrying a remembered passage into its new place."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}

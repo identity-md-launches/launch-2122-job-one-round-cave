@@ -1,0 +1,38 @@
+[
+  {
+    "source": "line-1/tools/threeway/merge.py",
+    "copy": "tools/threeway/merge.py",
+    "sha256": "256c6e4f169ac46d7ae68eb6ee5475a4915211ad6efa89edca75b1cbe8623b0e",
+    "adaptation": "none"
+  },
+  {
+    "source": "line-1/tools/merge-review/review.py",
+    "copy": "tools/merge-review/review.py",
+    "sha256": "d5a883d9870e1174963a0a1a4029a490cb8ec9e1597a3c2332810b62f8d10ed2",
+    "adaptation": "none"
+  },
+  {
+    "source": "line-1/tools/tree-review/tree_review.py",
+    "copy": "tools/tree-review/tree_review.py",
+    "sha256": "36a2277d551d0d2d7687d4b42fa174fa34307c3724f944b26befe86c937ed285",
+    "adaptation": "none"
+  },
+  {
+    "source": "line-3/tools/citation-reanchor/reanchor.py",
+    "copy": "tools/citation-reanchor/reanchor.py",
+    "sha256": "91366dc0cd8aac401d7234861a1abe5a7eb9cb44eef70f10c4f9514f94535543",
+    "adaptation": "none"
+  },
+  {
+    "source": "line-3/tools/evidence-search/search.py",
+    "copy": "tools/evidence-search/search.py",
+    "sha256": "33fd351b9012fd247581164cdbf680ffec21ae812b0200dbdd2df8f9f4385de8",
+    "adaptation": "none"
+  },
+  {
+    "source": "line-3/tools/evidence-search/examples/docs/zto.md",
+    "copy": "examples/zto.md",
+    "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+    "adaptation": "none"
+  }
+]

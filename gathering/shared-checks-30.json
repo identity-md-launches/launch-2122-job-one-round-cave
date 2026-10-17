@@ -1,0 +1,1258 @@
+{
+  "citation_demo": {
+    "format": "merge-citations/v1",
+    "status": "ready-for-review",
+    "path": "zto.md",
+    "base_anchor_verified": true,
+    "text_merge_clean": true,
+    "inputs": {
+      "base": {
+        "sha256": "2f4373cc4cba86685e47e555413b94f827331359be086af78b181faf2e1c384d",
+        "files": 1,
+        "directories": 0,
+        "bytes": 672
+      },
+      "ours": {
+        "sha256": "31067eb4ddc4c910b3219d63a25f7a5d09a49dd1c80151830f8318b79cdb8529",
+        "files": 1,
+        "directories": 0,
+        "bytes": 688
+      },
+      "theirs": {
+        "sha256": "d52f199af2fe265603c272954a5340517e263cc2f1645bc0073a6fcac74f952f",
+        "files": 1,
+        "directories": 0,
+        "bytes": 728
+      }
+    },
+    "conflicted_paths": [],
+    "merge_status": "merged",
+    "candidate_sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e",
+    "branches": {
+      "base": {
+        "format": "citation-reanchor-result/v1",
+        "status": "unchanged",
+        "original_citation": "zto.md:3-6",
+        "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+        "current_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+        "source_hash_matches": true,
+        "unique_current_citation": {
+          "path": "zto.md",
+          "line_start": 3,
+          "line_end": 6,
+          "citation": "zto.md:3-6",
+          "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009"
+        },
+        "match_count": 1,
+        "candidates": [
+          {
+            "path": "zto.md",
+            "line_start": 3,
+            "line_end": 6,
+            "citation": "zto.md:3-6",
+            "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009"
+          }
+        ],
+        "candidates_truncated": false,
+        "scope": "saved line range",
+        "source_verified": false
+      },
+      "ours": {
+        "format": "citation-reanchor-result/v1",
+        "status": "relocated",
+        "original_citation": "zto.md:3-6",
+        "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+        "current_sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e",
+        "source_hash_matches": false,
+        "unique_current_citation": {
+          "path": "zto.md",
+          "line_start": 5,
+          "line_end": 8,
+          "citation": "zto.md:5-8",
+          "sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e"
+        },
+        "match_count": 1,
+        "candidates": [
+          {
+            "path": "zto.md",
+            "line_start": 5,
+            "line_end": 8,
+            "citation": "zto.md:5-8",
+            "sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e"
+          }
+        ],
+        "candidates_truncated": false,
+        "scope": "all exact line occurrences in same path",
+        "source_verified": false
+      },
+      "theirs": {
+        "format": "citation-reanchor-result/v1",
+        "status": "same_lines_changed_source",
+        "original_citation": "zto.md:3-6",
+        "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+        "current_sha256": "04df31877333480f30e3e9b1c667ad5f6c72f8aeb628d63f0780fb90be86b60a",
+        "source_hash_matches": false,
+        "unique_current_citation": {
+          "path": "zto.md",
+          "line_start": 3,
+          "line_end": 6,
+          "citation": "zto.md:3-6",
+          "sha256": "04df31877333480f30e3e9b1c667ad5f6c72f8aeb628d63f0780fb90be86b60a"
+        },
+        "match_count": 1,
+        "candidates": [
+          {
+            "path": "zto.md",
+            "line_start": 3,
+            "line_end": 6,
+            "citation": "zto.md:3-6",
+            "sha256": "04df31877333480f30e3e9b1c667ad5f6c72f8aeb628d63f0780fb90be86b60a"
+          }
+        ],
+        "candidates_truncated": false,
+        "scope": "all exact line occurrences in same path",
+        "source_verified": false
+      }
+    },
+    "candidate": {
+      "format": "citation-reanchor-result/v1",
+      "status": "relocated",
+      "original_citation": "zto.md:3-6",
+      "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+      "current_sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e",
+      "source_hash_matches": false,
+      "unique_current_citation": {
+        "path": "zto.md",
+        "line_start": 5,
+        "line_end": 8,
+        "citation": "zto.md:5-8",
+        "sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e"
+      },
+      "match_count": 1,
+      "candidates": [
+        {
+          "path": "zto.md",
+          "line_start": 5,
+          "line_end": 8,
+          "citation": "zto.md:5-8",
+          "sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e"
+        }
+      ],
+      "candidates_truncated": false,
+      "scope": "all exact line occurrences in same path",
+      "source_verified": false
+    },
+    "candidate_diff_from_base": "--- BASE\n+++ CANDIDATE\n@@ -1,3 +1,5 @@\n+# Reading copy\n+\n # ZTO on Ethereum\n \n ZTO token name: Zero To One.\n@@ -13,3 +15,5 @@\n The companion zto-mainnet.json contains the raw eth_call results and retrieval time.\n This is a recorded RPC observation, not an independent proof or a current quote.\n Use exact integer token units for accounting; search results do not authorize a payment.\n+\n+Review historical observations before relying on them.\n",
+    "limits": [
+      "Suggestions refer to a recomputed in-memory candidate, never an applied file.",
+      "An intact excerpt may have a changed meaning in its new context; review it.",
+      "The saved anchor must match the supplied base bytes and original line range.",
+      "No author authentication, factual verification, semantic merge or approval.",
+      "Exact complete-line matching; only LF/CRLF endings normalize.",
+      "Stable bounded UTF-8 trees only; no atomic snapshot or race protection.",
+      "No files are written, no documents executed, and no network is used."
+    ],
+    "demo": "Real historical ZTO document with two illustrative edits in memory. No new chain observation and no files applied."
+  },
+  "citation_provenance_verified": true,
+  "choices_demo": {
+    "choices": {
+      "candidate_assignments": 24,
+      "catalog_sha256": "0b240e558e98f7b5731620f596f8b6a2e71f9bac7ce72b325dd8d88ae4a96196",
+      "checked_assignments": 24,
+      "compatible_selections_found": 8,
+      "max_assignments": 10000,
+      "method": "finite-release-map-v1",
+      "missing_possible_packages": [],
+      "releases": {
+        "certifi": {
+          "2025.10.5": {
+            "status": "viable",
+            "witness": 3
+          },
+          "2025.8.3": {
+            "status": "viable",
+            "witness": 0
+          }
+        },
+        "chardet": {
+          "4.0.0": {
+            "status": "excluded"
+          }
+        },
+        "charset-normalizer": {
+          "3.4.3": {
+            "status": "viable",
+            "witness": 0
+          },
+          "3.4.4": {
+            "status": "viable",
+            "witness": 2
+          }
+        },
+        "idna": {
+          "2.10": {
+            "status": "excluded"
+          },
+          "3.10": {
+            "status": "viable",
+            "witness": 0
+          },
+          "3.11": {
+            "status": "viable",
+            "witness": 1
+          }
+        },
+        "requests": {
+          "2.25.1": {
+            "status": "excluded"
+          },
+          "2.31.0": {
+            "status": "excluded"
+          },
+          "2.32.5": {
+            "status": "viable",
+            "witness": 0
+          }
+        },
+        "urllib3": {
+          "1.26.20": {
+            "status": "viable",
+            "witness": 0
+          },
+          "2.5.0": {
+            "status": "excluded"
+          }
+        }
+      },
+      "status": "complete",
+      "witnesses": [
+        {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.10",
+          "requests": "2.32.5",
+          "urllib3": "1.26.20"
+        },
+        {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.11",
+          "requests": "2.32.5",
+          "urllib3": "1.26.20"
+        },
+        {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.4",
+          "idna": "3.10",
+          "requests": "2.32.5",
+          "urllib3": "1.26.20"
+        },
+        {
+          "certifi": "2025.10.5",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.10",
+          "requests": "2.32.5",
+          "urllib3": "1.26.20"
+        }
+      ]
+    },
+    "format": "merged-release-choices/v1",
+    "limits": [
+      "Read-only review; no root is removed or pin applied.",
+      "Witnesses establish compatibility only in the supplied finite catalog.",
+      "Unknown is not excluded when enumeration is incomplete.",
+      "No platform, artifact, security or installability claim.",
+      "Enumeration shares the inherited numeric parser and edge checker."
+    ],
+    "merge": {
+      "clean": true,
+      "conflicts": [],
+      "diffs": {
+        "ours": "--- BASE\n+++ OURS\n@@ -44,7 +44,7 @@\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n     \"idna\": \"*\",\n-    \"requests\": \"==2.31.0\",\n+    \"requests\": \"==2.32.5\",\n     \"urllib3\": \"<2\"\n   }\n }\n",
+        "theirs": "--- BASE\n+++ THEIRS\n@@ -43,7 +43,7 @@\n   },\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n-    \"idna\": \"*\",\n+    \"idna\": \">=3.10\",\n     \"requests\": \"==2.31.0\",\n     \"urllib3\": \"<2\"\n   }\n"
+      },
+      "inputs": {
+        "base": {
+          "bytes": 961,
+          "lines": 50,
+          "sha256": "1d5462c17d9d05372c591431f84d63c5237d2fedeb27187a1c1498bcf3a4edb7"
+        },
+        "ours": {
+          "bytes": 961,
+          "lines": 50,
+          "sha256": "1ed68e5120cd756fb4d8940eebbaab83b98068fb83f5c7a528fb657a1cf6d2df"
+        },
+        "theirs": {
+          "bytes": 966,
+          "lines": 50,
+          "sha256": "0089042156936454a8fbea88400b431d40e3e2ec334c20a058447fcc425f59d5"
+        }
+      },
+      "limits": [
+        "Line-based alignment can be ambiguous on repeated text.",
+        "Clean means no textual conflict, not semantic correctness.",
+        "Hashes identify bytes; they do not authenticate an author."
+      ],
+      "merged": "{\n  \"packages\": {\n    \"certifi\": {\n      \"2025.10.5\": {},\n      \"2025.8.3\": {}\n    },\n    \"chardet\": {\n      \"4.0.0\": {}\n    },\n    \"charset-normalizer\": {\n      \"3.4.3\": {},\n      \"3.4.4\": {}\n    },\n    \"idna\": {\n      \"2.10\": {},\n      \"3.10\": {},\n      \"3.11\": {}\n    },\n    \"requests\": {\n      \"2.25.1\": {\n        \"certifi\": \">=2017.4.17\",\n        \"chardet\": \">=3.0.2,<5\",\n        \"idna\": \">=2.5,<3\",\n        \"urllib3\": \">=1.21.1,<1.27\"\n      },\n      \"2.31.0\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      },\n      \"2.32.5\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      }\n    },\n    \"urllib3\": {\n      \"1.26.20\": {},\n      \"2.5.0\": {}\n    }\n  },\n  \"roots\": {\n    \"certifi\": \">=2017.4.17\",\n    \"idna\": \">=3.10\",\n    \"requests\": \"==2.32.5\",\n    \"urllib3\": \"<2\"\n  }\n}\n",
+      "merged_sha256": "e5eb2412713efb68f436e4722cff08f30e13d65083fd2c693772e9563a1318d5",
+      "schema": "merge-review/v1"
+    },
+    "status": "mapped"
+  },
+  "release_map_source_hashes_verified": true,
+  "suites": [
+    {
+      "tool": "proof-search",
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "shared/proof-search",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit": 0,
+      "tests": 14,
+      "log": "test_added_removed_and_no_match (test_anchored_search.AnchoredSearch.test_added_removed_and_no_match) ... ok\ntest_cli_demo_read_only_and_errors (test_anchored_search.AnchoredSearch.test_cli_demo_read_only_and_errors) ... ok\ntest_existing_output_and_symlinks_rejected (test_anchored_search.AnchoredSearch.test_existing_output_and_symlinks_rejected) ... ok\ntest_forged_receipt_and_matching_index_rejected (test_anchored_search.AnchoredSearch.test_forged_receipt_and_matching_index_rejected) ... ok\ntest_metadata_never_enters_receipts_or_saved_witness (test_anchored_search.AnchoredSearch.test_metadata_never_enters_receipts_or_saved_witness) ... ok\ntest_real_proof_citations_and_input_immutability (test_anchored_search.AnchoredSearch.test_real_proof_citations_and_input_immutability) ... ok\ntest_saved_proof_reverified_and_query_anchor_required (test_anchored_search.AnchoredSearch.test_saved_proof_reverified_and_query_anchor_required) ... ok\ntest_tampered_proof_writes_nothing (test_anchored_search.AnchoredSearch.test_tampered_proof_writes_nothing) ... ok\ntest_uncited_change_blocks_search (test_anchored_search.AnchoredSearch.test_uncited_change_blocks_search) ... ok\ntest_wrong_checkpoint_address_and_slots_write_nothing (test_anchored_search.AnchoredSearch.test_wrong_checkpoint_address_and_slots_write_nothing) ... ok\ntest_bad_proof_writes_nothing (test_proof_search.Integration.test_bad_proof_writes_nothing) ... ok\ntest_real_receipt_search_and_stale_detection (test_proof_search.Integration.test_real_receipt_search_and_stale_detection) ... ok\ntest_unverified_metadata_excluded (test_proof_search.Integration.test_unverified_metadata_excluded) ... ok\ntest_wrong_slot_and_root_rejected (test_proof_search.Integration.test_wrong_slot_and_root_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.332s\n\nOK\n"
+    },
+    {
+      "tool": "merge-dependencies",
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "shared/merge-dependencies",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit": 0,
+      "tests": 44,
+      "log": "test_audit_skipped_for_unfinished_plan (test_audited_plan.AuditedPlanTests.test_audit_skipped_for_unfinished_plan) ... ok\ntest_conflict_and_incompatibility_skip_audit (test_audited_plan.AuditedPlanTests.test_conflict_and_incompatibility_skip_audit) ... ok\ntest_false_optimum_and_bad_witness_are_disagreement (test_audited_plan.AuditedPlanTests.test_false_optimum_and_bad_witness_are_disagreement) ... ok\ntest_historical_merge_and_exact_budget (test_audited_plan.AuditedPlanTests.test_historical_merge_and_exact_budget) ... ok\ntest_inputs_unchanged_and_invalid_budgets (test_audited_plan.AuditedPlanTests.test_inputs_unchanged_and_invalid_budgets) ... ok\ntest_portability_cli_and_exit_codes (test_audited_plan.AuditedPlanTests.test_portability_cli_and_exit_codes) ... ok\ntest_cli_preserves_inputs_and_statuses (test_check_merge.IntegrationTests.test_cli_preserves_inputs_and_statuses) ... ok\ntest_compatible_change_retained_exactly (test_check_merge.IntegrationTests.test_compatible_change_retained_exactly) ... ok\ntest_determinism_and_side_symmetry (test_check_merge.IntegrationTests.test_determinism_and_side_symmetry) ... ok\ntest_incomplete_minimization_is_reported (test_check_merge.IntegrationTests.test_incomplete_minimization_is_reported) ... ok\ntest_invalid_clean_text_is_not_compatibility (test_check_merge.IntegrationTests.test_invalid_clean_text_is_not_compatibility) ... ok\ntest_low_budget_never_claims_impossibility (test_check_merge.IntegrationTests.test_low_budget_never_claims_impossibility) ... ok\ntest_real_clean_text_merge_is_incompatible (test_check_merge.IntegrationTests.test_real_clean_text_merge_is_incompatible) ... ok\ntest_rejected_audit_does_not_claim_completion (test_check_merge.IntegrationTests.test_rejected_audit_does_not_claim_completion) ... ok\ntest_strict_budget_and_text_bounds (test_check_merge.IntegrationTests.test_strict_budget_and_text_bounds) ... ok\ntest_text_conflict_never_enters_solver (test_check_merge.IntegrationTests.test_text_conflict_never_enters_solver) ... ok\ntest_actual_merged_catalog_not_either_branch (test_merge_choices.MergeChoicesTests.test_actual_merged_catalog_not_either_branch) ... ok\ntest_deterministic_and_no_solver_search (test_merge_choices.MergeChoicesTests.test_deterministic_and_no_solver_search) ... ok\ntest_exact_budget_and_unknown_not_excluded (test_merge_choices.MergeChoicesTests.test_exact_budget_and_unknown_not_excluded) ... ok\ntest_historical_catalog_and_witnesses (test_merge_choices.MergeChoicesTests.test_historical_catalog_and_witnesses) ... ok\ntest_invalid_catalog_and_budget (test_merge_choices.MergeChoicesTests.test_invalid_catalog_and_budget) ... ok\ntest_portable_cli_inputs_unchanged (test_merge_choices.MergeChoicesTests.test_portable_cli_inputs_unchanged) ... ok\ntest_text_conflict_short_circuits (test_merge_choices.MergeChoicesTests.test_text_conflict_short_circuits) ... ok\ntest_demo_cli_and_portable_copy (test_plan_merge.PlanMergeTests.test_demo_cli_and_portable_copy) ... ok\ntest_incompatible_merge_does_not_invoke_planner (test_plan_merge.PlanMergeTests.test_incompatible_merge_does_not_invoke_planner) ... ok\ntest_planning_budget_and_invalid_baseline (test_plan_merge.PlanMergeTests.test_planning_budget_and_invalid_baseline) ... ok\ntest_real_metadata_merge_needs_one_change (test_plan_merge.PlanMergeTests.test_real_metadata_merge_needs_one_change) ... ok\ntest_text_conflict_and_budget_skip_plan (test_plan_merge.PlanMergeTests.test_text_conflict_and_budget_skip_plan) ... ok\ntest_demo_exit_and_json (test_repair_merge.RepairMergeTests.test_demo_exit_and_json) ... ok\ntest_real_requests_merge_proposes_minimum_removal (test_repair_merge.RepairMergeTests.test_real_requests_merge_proposes_minimum_removal) ... ok\ntest_repair_budget_keeps_result_inconclusive (test_repair_merge.RepairMergeTests.test_repair_budget_keeps_result_inconclusive) ... ok\ntest_repair_budget_validated_even_without_a_proposal (test_repair_merge.RepairMergeTests.test_repair_budget_validated_even_without_a_proposal) ... ok\ntest_text_conflict_skips_repair (test_repair_merge.RepairMergeTests.test_text_conflict_skips_repair) ... ok\ntest_both_budget_limits_remain_inconclusive (test_second_check.SecondCheckTests.test_both_budget_limits_remain_inconclusive) ... ok\ntest_budget_validation (test_second_check.SecondCheckTests.test_budget_validation) ... ok\ntest_cli_input_preservation_and_relocation (test_second_check.SecondCheckTests.test_cli_input_preservation_and_relocation) ... ok\ntest_determinism_and_symmetry (test_second_check.SecondCheckTests.test_determinism_and_symmetry) ... ok\ntest_enumerator_does_not_call_solver (test_second_check.SecondCheckTests.test_enumerator_does_not_call_solver) ... ok\ntest_false_unsatisfiable_detected (test_second_check.SecondCheckTests.test_false_unsatisfiable_detected) ... ok\ntest_invalid_assignment_detected (test_second_check.SecondCheckTests.test_invalid_assignment_detected) ... ok\ntest_invalid_json_and_grammar (test_second_check.SecondCheckTests.test_invalid_json_and_grammar) ... ok\ntest_real_merge_incompatible (test_second_check.SecondCheckTests.test_real_merge_incompatible) ... ok\ntest_resolved_checks_assignment (test_second_check.SecondCheckTests.test_resolved_checks_assignment) ... ok\ntest_text_conflict_skips_both_searches (test_second_check.SecondCheckTests.test_text_conflict_skips_both_searches) ... ok\n\n----------------------------------------------------------------------\nRan 44 tests in 0.666s\n\nOK\n"
+    },
+    {
+      "tool": "proof-handoff",
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "shared/proof-handoff",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit": 0,
+      "tests": 11,
+      "log": "test_bundle_immutability_exclusive_output_and_cleanup (test_handoff.HandoffTests.test_bundle_immutability_exclusive_output_and_cleanup) ... ok\ntest_cli_failure_has_no_partial_success (test_handoff.HandoffTests.test_cli_failure_has_no_partial_success) ... ok\ntest_forged_excerpt_rehashed_still_fails_reproduction (test_handoff.HandoffTests.test_forged_excerpt_rehashed_still_fails_reproduction) ... ok\ntest_manifest_pin_mismatch (test_handoff.HandoffTests.test_manifest_pin_mismatch) ... ok\ntest_missing_account_document_rejected (test_handoff.HandoffTests.test_missing_account_document_rejected) ... ok\ntest_no_hit_receipt_valid (test_handoff.HandoffTests.test_no_hit_receipt_valid) ... ok\ntest_real_accounts_receipt_and_new_query (test_handoff.HandoffTests.test_real_accounts_receipt_and_new_query) ... ok\ntest_rehashed_changed_document_cannot_become_proof (test_handoff.HandoffTests.test_rehashed_changed_document_cannot_become_proof) ... ok\ntest_relocation_without_line_folders (test_handoff.HandoffTests.test_relocation_without_line_folders) ... ok\ntest_wrong_bundle_pin_rejected_before_scratch_writes (test_handoff.HandoffTests.test_wrong_bundle_pin_rejected_before_scratch_writes) ... ok\ntest_wrong_checkpoint_rejected (test_handoff.HandoffTests.test_wrong_checkpoint_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.689s\n\nOK\n"
+    },
+    {
+      "tool": "merge-citations",
+      "command": [
+        "/usr/bin/python3",
+        "-B",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "shared/merge-citations",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit": 0,
+      "tests": 14,
+      "log": "test_changed_passage_is_not_replaced (test_citations.Citations.test_changed_passage_is_not_replaced) ... ok\ntest_concurrent_change_rejected (test_citations.Citations.test_concurrent_change_rejected) ... ok\ntest_conflict_has_no_candidate_citation (test_citations.Citations.test_conflict_has_no_candidate_citation) ... ok\ntest_crlf_and_unicode_are_exact (test_citations.Citations.test_crlf_and_unicode_are_exact) ... ok\ntest_delete_modify_conflict (test_citations.Citations.test_delete_modify_conflict) ... ok\ntest_deletion_is_distinct_from_missing_excerpt (test_citations.Citations.test_deletion_is_distinct_from_missing_excerpt) ... ok\ntest_duplicate_passage_is_ambiguous (test_citations.Citations.test_duplicate_passage_is_ambiguous) ... ok\ntest_independent_edits_and_immutable_inputs (test_citations.Citations.test_independent_edits_and_immutable_inputs) ... ok\ntest_path_collision (test_citations.Citations.test_path_collision) ... ok\ntest_real_demo (test_citations.Citations.test_real_demo) ... ok\ntest_stale_and_forged_anchors (test_citations.Citations.test_stale_and_forged_anchors) ... ok\ntest_symlink_and_parent_traversal_rejected (test_citations.Citations.test_symlink_and_parent_traversal_rejected) ... ok\ntest_unrelated_conflict_blocks_overall_review (test_citations.Citations.test_unrelated_conflict_blocks_overall_review) ... ok\ntest_workspace_cli_and_portability (test_citations.Citations.test_workspace_cli_and_portability) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.119s\n\nOK\n"
+    }
+  ],
+  "total_tests": 83,
+  "copied_files_match_current_sources": 29,
+  "frozen_copies_verified": 31,
+  "source_drift": [
+    {
+      "source": "line-3/tools/evidence-search/README.md",
+      "current_sha256": "e2b0c2ae6c8bf048f509966e31ab8978fc9ae736cf534f0f734153205a4e3216",
+      "frozen_copy_sha256": "d3a9ffd68108a90aa7bb33f9a8f022554dc7254d872df22f213ba1bc16fff182"
+    },
+    {
+      "source": "line-3/tools/evidence-search/search.py",
+      "current_sha256": "33fd351b9012fd247581164cdbf680ffec21ae812b0200dbdd2df8f9f4385de8",
+      "frozen_copy_sha256": "20b4f883a801980cda8f33001ed803da8ec572af2adf4335d12e5495744a287f"
+    }
+  ],
+  "adapted_exhaustive_source_verified": true,
+  "root_repair_source_hashes_verified": true,
+  "lock_plan_source_hashes_verified": true,
+  "plan_audit_source_hashes_verified": true,
+  "audited_demo": {
+    "command": [
+      "/usr/bin/python3",
+      "-B",
+      "shared/merge-dependencies/audited_plan.py",
+      "demo"
+    ],
+    "exit": 0,
+    "result": {
+      "format": "audited-merge-plan/v1",
+      "limits": [
+        "Read-only proposal; no files, packages or roots are changed.",
+        "Enumeration checks selected versions and minimum edit count only.",
+        "Both checks share the finite numeric catalog parser and edge checker.",
+        "No installability, security, artifact or publisher trust claim."
+      ],
+      "minimum_audit": {
+        "candidate_assignments": 24,
+        "checked_assignments": 24,
+        "claimed_minimum": 1,
+        "input_sha256": "208f9882b4c3a9fc50aed624692d04140535cca8b341193213f1819302efe5c7",
+        "max_assignments": 10000,
+        "method": "cartesian-minimum-edit-audit-v1",
+        "minimum_change_count": 1,
+        "possible_packages": [
+          "certifi",
+          "chardet",
+          "charset-normalizer",
+          "idna",
+          "requests",
+          "urllib3"
+        ],
+        "reason": "all Cartesian assignments exhausted",
+        "selected": {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.10",
+          "requests": "2.32.5",
+          "urllib3": "1.26.20"
+        },
+        "status": "verified",
+        "witness_change_count": 1
+      },
+      "proposal": {
+        "baseline": {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.10",
+          "requests": "2.31.0",
+          "urllib3": "1.26.20"
+        },
+        "checked_merge": {
+          "assignment_check": {
+            "claim": "resolved",
+            "selected": {
+              "certifi": "2025.10.5",
+              "charset-normalizer": "3.4.4",
+              "idna": "3.11",
+              "requests": "2.32.5",
+              "urllib3": "1.26.20"
+            },
+            "status": "verified"
+          },
+          "enumeration": {
+            "candidate_assignments": 24,
+            "checked_assignments": 3,
+            "max_assignments": 10000,
+            "method": "exhaustive-cartesian-v1",
+            "possible_packages": [
+              "certifi",
+              "chardet",
+              "charset-normalizer",
+              "idna",
+              "requests",
+              "urllib3"
+            ],
+            "selected": {
+              "certifi": "2025.8.3",
+              "charset-normalizer": "3.4.3",
+              "idna": "3.10",
+              "requests": "2.32.5",
+              "urllib3": "1.26.20"
+            },
+            "status": "resolved"
+          },
+          "format": "dependency-merge-second-check/v1",
+          "limits": [
+            "Only finite catalog compatibility is compared; no edits are applied.",
+            "The searches differ but share the numeric catalog parser and grammar.",
+            "Core minimality, diagnostics, publisher trust and installability are not independently checked.",
+            "Budgets limit search work, not elapsed time; incomplete work is inconclusive."
+          ],
+          "review": {
+            "audit": {
+              "assignment_checked": true,
+              "claim": "resolved",
+              "status": "verified"
+            },
+            "dependencies": {
+              "catalog_sha256": "0b240e558e98f7b5731620f596f8b6a2e71f9bac7ce72b325dd8d88ae4a96196",
+              "roots": {
+                "certifi": ">=2017.4.17",
+                "idna": ">=3.10",
+                "requests": "==2.32.5",
+                "urllib3": "<2"
+              },
+              "schema": 1,
+              "search": {
+                "max_steps": 10000,
+                "solver_calls": 1,
+                "steps": 6
+              },
+              "selected": {
+                "certifi": "2025.10.5",
+                "charset-normalizer": "3.4.4",
+                "idna": "3.11",
+                "requests": "2.32.5",
+                "urllib3": "1.26.20"
+              },
+              "status": "resolved"
+            },
+            "format": "dependency-merge-review/v1",
+            "limits": [
+              "Review only; no files are applied and no packages are installed.",
+              "Compatibility is confined to this finite numeric-version catalog.",
+              "Audit reuses the inherited solver for impossibility; it is not an independent proof.",
+              "Hashes identify input bytes, not authors or publisher authenticity."
+            ],
+            "merge": {
+              "clean": true,
+              "conflicts": [],
+              "diffs": {
+                "ours": "--- BASE\n+++ OURS\n@@ -44,7 +44,7 @@\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n     \"idna\": \"*\",\n-    \"requests\": \"==2.31.0\",\n+    \"requests\": \"==2.32.5\",\n     \"urllib3\": \"<2\"\n   }\n }\n",
+                "theirs": "--- BASE\n+++ THEIRS\n@@ -43,7 +43,7 @@\n   },\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n-    \"idna\": \"*\",\n+    \"idna\": \">=3.10\",\n     \"requests\": \"==2.31.0\",\n     \"urllib3\": \"<2\"\n   }\n"
+              },
+              "inputs": {
+                "base": {
+                  "bytes": 961,
+                  "lines": 50,
+                  "sha256": "1d5462c17d9d05372c591431f84d63c5237d2fedeb27187a1c1498bcf3a4edb7"
+                },
+                "ours": {
+                  "bytes": 961,
+                  "lines": 50,
+                  "sha256": "1ed68e5120cd756fb4d8940eebbaab83b98068fb83f5c7a528fb657a1cf6d2df"
+                },
+                "theirs": {
+                  "bytes": 966,
+                  "lines": 50,
+                  "sha256": "0089042156936454a8fbea88400b431d40e3e2ec334c20a058447fcc425f59d5"
+                }
+              },
+              "limits": [
+                "Line-based alignment can be ambiguous on repeated text.",
+                "Clean means no textual conflict, not semantic correctness.",
+                "Hashes identify bytes; they do not authenticate an author."
+              ],
+              "merged": "{\n  \"packages\": {\n    \"certifi\": {\n      \"2025.10.5\": {},\n      \"2025.8.3\": {}\n    },\n    \"chardet\": {\n      \"4.0.0\": {}\n    },\n    \"charset-normalizer\": {\n      \"3.4.3\": {},\n      \"3.4.4\": {}\n    },\n    \"idna\": {\n      \"2.10\": {},\n      \"3.10\": {},\n      \"3.11\": {}\n    },\n    \"requests\": {\n      \"2.25.1\": {\n        \"certifi\": \">=2017.4.17\",\n        \"chardet\": \">=3.0.2,<5\",\n        \"idna\": \">=2.5,<3\",\n        \"urllib3\": \">=1.21.1,<1.27\"\n      },\n      \"2.31.0\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      },\n      \"2.32.5\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      }\n    },\n    \"urllib3\": {\n      \"1.26.20\": {},\n      \"2.5.0\": {}\n    }\n  },\n  \"roots\": {\n    \"certifi\": \">=2017.4.17\",\n    \"idna\": \">=3.10\",\n    \"requests\": \"==2.32.5\",\n    \"urllib3\": \"<2\"\n  }\n}\n",
+              "merged_sha256": "e5eb2412713efb68f436e4722cff08f30e13d65083fd2c693772e9563a1318d5",
+              "schema": "merge-review/v1"
+            },
+            "status": "resolved"
+          },
+          "status": "resolved"
+        },
+        "format": "dependency-merge-lock-plan/v1",
+        "limits": [
+          "Review and proposal only; no catalog, baseline or package is changed.",
+          "A plan is attempted only after two completed compatible searches agree.",
+          "Minimum counts packages added, removed or version-changed in the finite catalog.",
+          "Publisher trust, artifacts, platform rules and installability are outside scope."
+        ],
+        "plan": {
+          "baseline": {
+            "certifi": "2025.8.3",
+            "charset-normalizer": "3.4.3",
+            "idna": "3.10",
+            "requests": "2.31.0",
+            "urllib3": "1.26.20"
+          },
+          "change_count": 1,
+          "changes": [
+            {
+              "after": "2.32.5",
+              "before": "2.31.0",
+              "operation": "change",
+              "package": "requests"
+            }
+          ],
+          "input_sha256": "208f9882b4c3a9fc50aed624692d04140535cca8b341193213f1819302efe5c7",
+          "max_steps": 10000,
+          "method": "minimum-package-edits-v1",
+          "minimum_change_count": 1,
+          "optimality": "all reachable branches exhausted",
+          "selected": {
+            "certifi": "2025.8.3",
+            "charset-normalizer": "3.4.3",
+            "idna": "3.10",
+            "requests": "2.32.5",
+            "urllib3": "1.26.20"
+          },
+          "status": "optimal",
+          "steps": 17
+        },
+        "status": "planned"
+      },
+      "status": "audited"
+    }
+  },
+  "plan_demo": {
+    "command": [
+      "/usr/bin/python3",
+      "-B",
+      "shared/merge-dependencies/plan_merge.py",
+      "demo"
+    ],
+    "exit": 0,
+    "result": {
+      "baseline": {
+        "certifi": "2025.8.3",
+        "charset-normalizer": "3.4.3",
+        "idna": "3.10",
+        "requests": "2.31.0",
+        "urllib3": "1.26.20"
+      },
+      "checked_merge": {
+        "assignment_check": {
+          "claim": "resolved",
+          "selected": {
+            "certifi": "2025.10.5",
+            "charset-normalizer": "3.4.4",
+            "idna": "3.11",
+            "requests": "2.32.5",
+            "urllib3": "1.26.20"
+          },
+          "status": "verified"
+        },
+        "enumeration": {
+          "candidate_assignments": 24,
+          "checked_assignments": 3,
+          "max_assignments": 10000,
+          "method": "exhaustive-cartesian-v1",
+          "possible_packages": [
+            "certifi",
+            "chardet",
+            "charset-normalizer",
+            "idna",
+            "requests",
+            "urllib3"
+          ],
+          "selected": {
+            "certifi": "2025.8.3",
+            "charset-normalizer": "3.4.3",
+            "idna": "3.10",
+            "requests": "2.32.5",
+            "urllib3": "1.26.20"
+          },
+          "status": "resolved"
+        },
+        "format": "dependency-merge-second-check/v1",
+        "limits": [
+          "Only finite catalog compatibility is compared; no edits are applied.",
+          "The searches differ but share the numeric catalog parser and grammar.",
+          "Core minimality, diagnostics, publisher trust and installability are not independently checked.",
+          "Budgets limit search work, not elapsed time; incomplete work is inconclusive."
+        ],
+        "review": {
+          "audit": {
+            "assignment_checked": true,
+            "claim": "resolved",
+            "status": "verified"
+          },
+          "dependencies": {
+            "catalog_sha256": "0b240e558e98f7b5731620f596f8b6a2e71f9bac7ce72b325dd8d88ae4a96196",
+            "roots": {
+              "certifi": ">=2017.4.17",
+              "idna": ">=3.10",
+              "requests": "==2.32.5",
+              "urllib3": "<2"
+            },
+            "schema": 1,
+            "search": {
+              "max_steps": 10000,
+              "solver_calls": 1,
+              "steps": 6
+            },
+            "selected": {
+              "certifi": "2025.10.5",
+              "charset-normalizer": "3.4.4",
+              "idna": "3.11",
+              "requests": "2.32.5",
+              "urllib3": "1.26.20"
+            },
+            "status": "resolved"
+          },
+          "format": "dependency-merge-review/v1",
+          "limits": [
+            "Review only; no files are applied and no packages are installed.",
+            "Compatibility is confined to this finite numeric-version catalog.",
+            "Audit reuses the inherited solver for impossibility; it is not an independent proof.",
+            "Hashes identify input bytes, not authors or publisher authenticity."
+          ],
+          "merge": {
+            "clean": true,
+            "conflicts": [],
+            "diffs": {
+              "ours": "--- BASE\n+++ OURS\n@@ -44,7 +44,7 @@\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n     \"idna\": \"*\",\n-    \"requests\": \"==2.31.0\",\n+    \"requests\": \"==2.32.5\",\n     \"urllib3\": \"<2\"\n   }\n }\n",
+              "theirs": "--- BASE\n+++ THEIRS\n@@ -43,7 +43,7 @@\n   },\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n-    \"idna\": \"*\",\n+    \"idna\": \">=3.10\",\n     \"requests\": \"==2.31.0\",\n     \"urllib3\": \"<2\"\n   }\n"
+            },
+            "inputs": {
+              "base": {
+                "bytes": 961,
+                "lines": 50,
+                "sha256": "1d5462c17d9d05372c591431f84d63c5237d2fedeb27187a1c1498bcf3a4edb7"
+              },
+              "ours": {
+                "bytes": 961,
+                "lines": 50,
+                "sha256": "1ed68e5120cd756fb4d8940eebbaab83b98068fb83f5c7a528fb657a1cf6d2df"
+              },
+              "theirs": {
+                "bytes": 966,
+                "lines": 50,
+                "sha256": "0089042156936454a8fbea88400b431d40e3e2ec334c20a058447fcc425f59d5"
+              }
+            },
+            "limits": [
+              "Line-based alignment can be ambiguous on repeated text.",
+              "Clean means no textual conflict, not semantic correctness.",
+              "Hashes identify bytes; they do not authenticate an author."
+            ],
+            "merged": "{\n  \"packages\": {\n    \"certifi\": {\n      \"2025.10.5\": {},\n      \"2025.8.3\": {}\n    },\n    \"chardet\": {\n      \"4.0.0\": {}\n    },\n    \"charset-normalizer\": {\n      \"3.4.3\": {},\n      \"3.4.4\": {}\n    },\n    \"idna\": {\n      \"2.10\": {},\n      \"3.10\": {},\n      \"3.11\": {}\n    },\n    \"requests\": {\n      \"2.25.1\": {\n        \"certifi\": \">=2017.4.17\",\n        \"chardet\": \">=3.0.2,<5\",\n        \"idna\": \">=2.5,<3\",\n        \"urllib3\": \">=1.21.1,<1.27\"\n      },\n      \"2.31.0\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      },\n      \"2.32.5\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      }\n    },\n    \"urllib3\": {\n      \"1.26.20\": {},\n      \"2.5.0\": {}\n    }\n  },\n  \"roots\": {\n    \"certifi\": \">=2017.4.17\",\n    \"idna\": \">=3.10\",\n    \"requests\": \"==2.32.5\",\n    \"urllib3\": \"<2\"\n  }\n}\n",
+            "merged_sha256": "e5eb2412713efb68f436e4722cff08f30e13d65083fd2c693772e9563a1318d5",
+            "schema": "merge-review/v1"
+          },
+          "status": "resolved"
+        },
+        "status": "resolved"
+      },
+      "format": "dependency-merge-lock-plan/v1",
+      "limits": [
+        "Review and proposal only; no catalog, baseline or package is changed.",
+        "A plan is attempted only after two completed compatible searches agree.",
+        "Minimum counts packages added, removed or version-changed in the finite catalog.",
+        "Publisher trust, artifacts, platform rules and installability are outside scope."
+      ],
+      "plan": {
+        "baseline": {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.10",
+          "requests": "2.31.0",
+          "urllib3": "1.26.20"
+        },
+        "change_count": 1,
+        "changes": [
+          {
+            "after": "2.32.5",
+            "before": "2.31.0",
+            "operation": "change",
+            "package": "requests"
+          }
+        ],
+        "input_sha256": "208f9882b4c3a9fc50aed624692d04140535cca8b341193213f1819302efe5c7",
+        "max_steps": 10000,
+        "method": "minimum-package-edits-v1",
+        "minimum_change_count": 1,
+        "optimality": "all reachable branches exhausted",
+        "selected": {
+          "certifi": "2025.8.3",
+          "charset-normalizer": "3.4.3",
+          "idna": "3.10",
+          "requests": "2.32.5",
+          "urllib3": "1.26.20"
+        },
+        "status": "optimal",
+        "steps": 17
+      },
+      "status": "planned"
+    }
+  },
+  "portable_repair_demo": {
+    "exit": 0,
+    "status": "repair_proposed"
+  },
+  "repair_demo": {
+    "command": [
+      "/usr/bin/python3",
+      "-B",
+      "shared/merge-dependencies/repair_merge.py",
+      "demo"
+    ],
+    "exit": 0,
+    "result": {
+      "checked_merge": {
+        "assignment_check": null,
+        "enumeration": {
+          "candidate_assignments": 24,
+          "checked_assignments": 24,
+          "max_assignments": 10000,
+          "method": "exhaustive-cartesian-v1",
+          "possible_packages": [
+            "certifi",
+            "chardet",
+            "charset-normalizer",
+            "idna",
+            "requests",
+            "urllib3"
+          ],
+          "status": "unsatisfiable"
+        },
+        "format": "dependency-merge-second-check/v1",
+        "limits": [
+          "Only finite catalog compatibility is compared; no edits are applied.",
+          "The searches differ but share the numeric catalog parser and grammar.",
+          "Core minimality, diagnostics, publisher trust and installability are not independently checked.",
+          "Budgets limit search work, not elapsed time; incomplete work is inconclusive."
+        ],
+        "review": {
+          "audit": {
+            "claim": "unsatisfiable",
+            "core_search_steps": 2,
+            "method": "Independent assignment checks and inherited-solver core search; not an independently certified unsatisfiability proof.",
+            "minimality": "irreducible",
+            "removal_witnesses_checked": 2,
+            "status": "verified"
+          },
+          "dependencies": {
+            "catalog_sha256": "a6e92f561ad112d9f4f311ea4e6100d7694254c6c7a77df3605109c67d3339d9",
+            "core": {
+              "idna": ">=3.10",
+              "requests": "==2.25.1"
+            },
+            "dropped_roots": {
+              "certifi": ">=2017.4.17",
+              "urllib3": "<2"
+            },
+            "explanation": "The core has no solution in this finite catalog. Each removal witness satisfies all other core roots. Irreducible means no single core root can be removed; it does not mean smallest possible core or a suggested repair.",
+            "minimality": "irreducible",
+            "removal_witnesses": {
+              "idna": {
+                "certifi": "2025.10.5",
+                "chardet": "4.0.0",
+                "idna": "2.10",
+                "requests": "2.25.1",
+                "urllib3": "1.26.20"
+              },
+              "requests": {
+                "idna": "3.11"
+              }
+            },
+            "representative_conflict": {
+              "available_versions": [
+                "3.11",
+                "3.10",
+                "2.10"
+              ],
+              "branch": {
+                "requests": "2.25.1"
+              },
+              "package": "idna",
+              "requirements": [
+                {
+                  "constraint": ">=3.10",
+                  "source": "root"
+                },
+                {
+                  "constraint": ">=2.5,<3",
+                  "source": "requests@2.25.1"
+                }
+              ],
+              "selected_version": null
+            },
+            "roots": {
+              "certifi": ">=2017.4.17",
+              "idna": ">=3.10",
+              "requests": "==2.25.1",
+              "urllib3": "<2"
+            },
+            "schema": 1,
+            "search": {
+              "max_steps": 10000,
+              "solver_calls": 5,
+              "steps": 15
+            },
+            "status": "unsatisfiable",
+            "trials": [
+              {
+                "removed_root": "certifi",
+                "status": "unsatisfiable",
+                "steps": 2
+              },
+              {
+                "removed_root": "idna",
+                "status": "resolved",
+                "steps": 6
+              },
+              {
+                "removed_root": "requests",
+                "status": "resolved",
+                "steps": 3
+              },
+              {
+                "removed_root": "urllib3",
+                "status": "unsatisfiable",
+                "steps": 2
+              }
+            ]
+          },
+          "format": "dependency-merge-review/v1",
+          "limits": [
+            "Review only; no files are applied and no packages are installed.",
+            "Compatibility is confined to this finite numeric-version catalog.",
+            "Audit reuses the inherited solver for impossibility; it is not an independent proof.",
+            "Hashes identify input bytes, not authors or publisher authenticity."
+          ],
+          "merge": {
+            "clean": true,
+            "conflicts": [],
+            "diffs": {
+              "ours": "--- BASE\n+++ OURS\n@@ -44,7 +44,7 @@\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n     \"idna\": \"*\",\n-    \"requests\": \"==2.32.5\",\n+    \"requests\": \"==2.25.1\",\n     \"urllib3\": \"<2\"\n   }\n }\n",
+              "theirs": "--- BASE\n+++ THEIRS\n@@ -43,7 +43,7 @@\n   },\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n-    \"idna\": \"*\",\n+    \"idna\": \">=3.10\",\n     \"requests\": \"==2.32.5\",\n     \"urllib3\": \"<2\"\n   }\n"
+            },
+            "inputs": {
+              "base": {
+                "bytes": 961,
+                "lines": 50,
+                "sha256": "1ed68e5120cd756fb4d8940eebbaab83b98068fb83f5c7a528fb657a1cf6d2df"
+              },
+              "ours": {
+                "bytes": 961,
+                "lines": 50,
+                "sha256": "fa1143f0cc31accb21af18f6aefa08b5f21eb7a71297c0b446803bc8ca4a3d49"
+              },
+              "theirs": {
+                "bytes": 966,
+                "lines": 50,
+                "sha256": "e5eb2412713efb68f436e4722cff08f30e13d65083fd2c693772e9563a1318d5"
+              }
+            },
+            "limits": [
+              "Line-based alignment can be ambiguous on repeated text.",
+              "Clean means no textual conflict, not semantic correctness.",
+              "Hashes identify bytes; they do not authenticate an author."
+            ],
+            "merged": "{\n  \"packages\": {\n    \"certifi\": {\n      \"2025.10.5\": {},\n      \"2025.8.3\": {}\n    },\n    \"chardet\": {\n      \"4.0.0\": {}\n    },\n    \"charset-normalizer\": {\n      \"3.4.3\": {},\n      \"3.4.4\": {}\n    },\n    \"idna\": {\n      \"2.10\": {},\n      \"3.10\": {},\n      \"3.11\": {}\n    },\n    \"requests\": {\n      \"2.25.1\": {\n        \"certifi\": \">=2017.4.17\",\n        \"chardet\": \">=3.0.2,<5\",\n        \"idna\": \">=2.5,<3\",\n        \"urllib3\": \">=1.21.1,<1.27\"\n      },\n      \"2.31.0\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      },\n      \"2.32.5\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      }\n    },\n    \"urllib3\": {\n      \"1.26.20\": {},\n      \"2.5.0\": {}\n    }\n  },\n  \"roots\": {\n    \"certifi\": \">=2017.4.17\",\n    \"idna\": \">=3.10\",\n    \"requests\": \"==2.25.1\",\n    \"urllib3\": \"<2\"\n  }\n}\n",
+            "merged_sha256": "d335589e45e709226868373c26e9386251903b2ac86d6757dd18683abaab823c",
+            "schema": "merge-review/v1"
+          },
+          "status": "unsatisfiable"
+        },
+        "status": "unsatisfiable"
+      },
+      "format": "dependency-merge-repair/v1",
+      "limits": [
+        "Review and proposal only; no catalog is changed or package installed.",
+        "Minimum means fewest removed roots in this finite catalog.",
+        "The caller must decide whether a proposed removal is acceptable.",
+        "Search budgets or disagreement cannot authorize a repair."
+      ],
+      "repair": {
+        "catalog_sha256": "a6e92f561ad112d9f4f311ea4e6100d7694254c6c7a77df3605109c67d3339d9",
+        "fully_rejected_removal_sizes": [
+          0
+        ],
+        "max_steps": 10000,
+        "max_trials": 10000,
+        "method": "minimum-root-removal-v1",
+        "minimum_removed_count": 1,
+        "remaining_roots": {
+          "certifi": ">=2017.4.17",
+          "requests": "==2.25.1",
+          "urllib3": "<2"
+        },
+        "removed": {
+          "idna": ">=3.10"
+        },
+        "selected": {
+          "certifi": "2025.10.5",
+          "chardet": "4.0.0",
+          "idna": "2.10",
+          "requests": "2.25.1",
+          "urllib3": "1.26.20"
+        },
+        "status": "repaired",
+        "steps": 10,
+        "trials": 3
+      },
+      "status": "repair_proposed"
+    }
+  },
+  "second_check_demo": {
+    "command": [
+      "/usr/bin/python3",
+      "-B",
+      "shared/merge-dependencies/second_check.py",
+      "demo"
+    ],
+    "exit": 0,
+    "result": {
+      "assignment_check": null,
+      "enumeration": {
+        "candidate_assignments": 24,
+        "checked_assignments": 24,
+        "max_assignments": 10000,
+        "method": "exhaustive-cartesian-v1",
+        "possible_packages": [
+          "certifi",
+          "chardet",
+          "charset-normalizer",
+          "idna",
+          "requests",
+          "urllib3"
+        ],
+        "status": "unsatisfiable"
+      },
+      "format": "dependency-merge-second-check/v1",
+      "limits": [
+        "Only finite catalog compatibility is compared; no edits are applied.",
+        "The searches differ but share the numeric catalog parser and grammar.",
+        "Core minimality, diagnostics, publisher trust and installability are not independently checked.",
+        "Budgets limit search work, not elapsed time; incomplete work is inconclusive."
+      ],
+      "review": {
+        "audit": {
+          "claim": "unsatisfiable",
+          "core_search_steps": 2,
+          "method": "Independent assignment checks and inherited-solver core search; not an independently certified unsatisfiability proof.",
+          "minimality": "irreducible",
+          "removal_witnesses_checked": 2,
+          "status": "verified"
+        },
+        "dependencies": {
+          "catalog_sha256": "a6e92f561ad112d9f4f311ea4e6100d7694254c6c7a77df3605109c67d3339d9",
+          "core": {
+            "idna": ">=3.10",
+            "requests": "==2.25.1"
+          },
+          "dropped_roots": {
+            "certifi": ">=2017.4.17",
+            "urllib3": "<2"
+          },
+          "explanation": "The core has no solution in this finite catalog. Each removal witness satisfies all other core roots. Irreducible means no single core root can be removed; it does not mean smallest possible core or a suggested repair.",
+          "minimality": "irreducible",
+          "removal_witnesses": {
+            "idna": {
+              "certifi": "2025.10.5",
+              "chardet": "4.0.0",
+              "idna": "2.10",
+              "requests": "2.25.1",
+              "urllib3": "1.26.20"
+            },
+            "requests": {
+              "idna": "3.11"
+            }
+          },
+          "representative_conflict": {
+            "available_versions": [
+              "3.11",
+              "3.10",
+              "2.10"
+            ],
+            "branch": {
+              "requests": "2.25.1"
+            },
+            "package": "idna",
+            "requirements": [
+              {
+                "constraint": ">=3.10",
+                "source": "root"
+              },
+              {
+                "constraint": ">=2.5,<3",
+                "source": "requests@2.25.1"
+              }
+            ],
+            "selected_version": null
+          },
+          "roots": {
+            "certifi": ">=2017.4.17",
+            "idna": ">=3.10",
+            "requests": "==2.25.1",
+            "urllib3": "<2"
+          },
+          "schema": 1,
+          "search": {
+            "max_steps": 10000,
+            "solver_calls": 5,
+            "steps": 15
+          },
+          "status": "unsatisfiable",
+          "trials": [
+            {
+              "removed_root": "certifi",
+              "status": "unsatisfiable",
+              "steps": 2
+            },
+            {
+              "removed_root": "idna",
+              "status": "resolved",
+              "steps": 6
+            },
+            {
+              "removed_root": "requests",
+              "status": "resolved",
+              "steps": 3
+            },
+            {
+              "removed_root": "urllib3",
+              "status": "unsatisfiable",
+              "steps": 2
+            }
+          ]
+        },
+        "format": "dependency-merge-review/v1",
+        "limits": [
+          "Review only; no files are applied and no packages are installed.",
+          "Compatibility is confined to this finite numeric-version catalog.",
+          "Audit reuses the inherited solver for impossibility; it is not an independent proof.",
+          "Hashes identify input bytes, not authors or publisher authenticity."
+        ],
+        "merge": {
+          "clean": true,
+          "conflicts": [],
+          "diffs": {
+            "ours": "--- BASE\n+++ OURS\n@@ -44,7 +44,7 @@\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n     \"idna\": \"*\",\n-    \"requests\": \"==2.32.5\",\n+    \"requests\": \"==2.25.1\",\n     \"urllib3\": \"<2\"\n   }\n }\n",
+            "theirs": "--- BASE\n+++ THEIRS\n@@ -43,7 +43,7 @@\n   },\n   \"roots\": {\n     \"certifi\": \">=2017.4.17\",\n-    \"idna\": \"*\",\n+    \"idna\": \">=3.10\",\n     \"requests\": \"==2.32.5\",\n     \"urllib3\": \"<2\"\n   }\n"
+          },
+          "inputs": {
+            "base": {
+              "bytes": 961,
+              "lines": 50,
+              "sha256": "1ed68e5120cd756fb4d8940eebbaab83b98068fb83f5c7a528fb657a1cf6d2df"
+            },
+            "ours": {
+              "bytes": 961,
+              "lines": 50,
+              "sha256": "fa1143f0cc31accb21af18f6aefa08b5f21eb7a71297c0b446803bc8ca4a3d49"
+            },
+            "theirs": {
+              "bytes": 966,
+              "lines": 50,
+              "sha256": "e5eb2412713efb68f436e4722cff08f30e13d65083fd2c693772e9563a1318d5"
+            }
+          },
+          "limits": [
+            "Line-based alignment can be ambiguous on repeated text.",
+            "Clean means no textual conflict, not semantic correctness.",
+            "Hashes identify bytes; they do not authenticate an author."
+          ],
+          "merged": "{\n  \"packages\": {\n    \"certifi\": {\n      \"2025.10.5\": {},\n      \"2025.8.3\": {}\n    },\n    \"chardet\": {\n      \"4.0.0\": {}\n    },\n    \"charset-normalizer\": {\n      \"3.4.3\": {},\n      \"3.4.4\": {}\n    },\n    \"idna\": {\n      \"2.10\": {},\n      \"3.10\": {},\n      \"3.11\": {}\n    },\n    \"requests\": {\n      \"2.25.1\": {\n        \"certifi\": \">=2017.4.17\",\n        \"chardet\": \">=3.0.2,<5\",\n        \"idna\": \">=2.5,<3\",\n        \"urllib3\": \">=1.21.1,<1.27\"\n      },\n      \"2.31.0\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      },\n      \"2.32.5\": {\n        \"certifi\": \">=2017.4.17\",\n        \"charset-normalizer\": \"<4,>=2\",\n        \"idna\": \"<4,>=2.5\",\n        \"urllib3\": \"<3,>=1.21.1\"\n      }\n    },\n    \"urllib3\": {\n      \"1.26.20\": {},\n      \"2.5.0\": {}\n    }\n  },\n  \"roots\": {\n    \"certifi\": \">=2017.4.17\",\n    \"idna\": \">=3.10\",\n    \"requests\": \"==2.25.1\",\n    \"urllib3\": \"<2\"\n  }\n}\n",
+          "merged_sha256": "d335589e45e709226868373c26e9386251903b2ac86d6757dd18683abaab823c",
+          "schema": "merge-review/v1"
+        },
+        "status": "unsatisfiable"
+      },
+      "status": "unsatisfiable"
+    }
+  },
+  "example": {
+    "command": [
+      "/usr/bin/python3",
+      "-B",
+      "shared/proof-handoff/handoff.py",
+      "check",
+      "shared/proof-handoff/tools/proof-set/examples/zto-and-pool.json",
+      "--block-hash",
+      "0x38dc4deb12174972d332cc1f95008b25ea87434f420ce0a51938e1b28755e9dc",
+      "--manifest-sha256",
+      "a4e9d3fb56c90bf1202ac3d53b8ce7c557febe06d88581a9430a2f6a59f14e8f",
+      "--bundle",
+      "shared/proof-handoff/examples/zto-proof-bundle.json",
+      "--expected-sha256",
+      "57ba25ab26d159efaa1c07dc28c1dc0a0e0914049df9646b46374fd04621089f"
+    ],
+    "exit": 0,
+    "result": {
+      "format": "proof-handoff-checked/v1",
+      "verified": true,
+      "proofs_verified": true,
+      "corpus_matches_proofs": true,
+      "receipt_reproduced": true,
+      "bundle_sha256": "57ba25ab26d159efaa1c07dc28c1dc0a0e0914049df9646b46374fd04621089f",
+      "manifest_sha256": "a4e9d3fb56c90bf1202ac3d53b8ce7c557febe06d88581a9430a2f6a59f14e8f",
+      "anchor": {
+        "blockHash": "0x38dc4deb12174972d332cc1f95008b25ea87434f420ce0a51938e1b28755e9dc",
+        "stateRoot": "0x70c13580735123b57c0a9a24692875f4ef366b04c69d92af9f539561e626d512",
+        "blockNumber": "0x18ff826",
+        "timestamp": "0x6ad36f57",
+        "headerSchema": "prague"
+      },
+      "accounts": 2,
+      "search": {
+        "format": "evidence-search-results/v1",
+        "hits": [
+          {
+            "citation": "000000000004444c5dc75cb358380d2e3de08a90.md:17-26",
+            "line_end": 26,
+            "line_start": 17,
+            "matched_terms": [
+              "storage",
+              "value"
+            ],
+            "path": "000000000004444c5dc75cb358380d2e3de08a90.md",
+            "score": 2.74965503,
+            "sha256": "f5f2e0f247f6f13719086bde4fc536821fc859406f939e1eafceb97b83dc8358",
+            "source_verified": true,
+            "text": "      \"storage\": [\n        {\n          \"exists\": true,\n          \"slot\": \"0x85763e16f60121d4266264cb693cca4d6bdb9e98ff9cc3d698d892d90342971b\",\n          \"value\": \"0x30d400000001b32f000000000000010675ff9d949ea2d3c11613bc41\"\n        }\n      ],\n      \"storageRoot\": \"0x6071a51b5b6739ea7b7d63b4ee086311b3a11b2f41a02f13f30158e99c1377c0\",\n      \"verified\": true\n    }"
+          },
+          {
+            "citation": "d782bdea4ef02a0bd391eb9089470c8080f0a68e.md:25-34",
+            "line_end": 34,
+            "line_start": 25,
+            "matched_terms": [
+              "value"
+            ],
+            "path": "d782bdea4ef02a0bd391eb9089470c8080f0a68e.md",
+            "score": 2.3540622,
+            "sha256": "1038dacf5518b723f65fd89fbc34068dfdf764be00333893c183f0a8d9aa1f15",
+            "source_verified": true,
+            "text": "          \"exists\": false,\n          \"slot\": \"0x0\",\n          \"value\": \"0x0\"\n        },\n        {\n          \"exists\": false,\n          \"slot\": \"0x1\",\n          \"value\": \"0x0\"\n        }\n      ],"
+          },
+          {
+            "citation": "000000000004444c5dc75cb358380d2e3de08a90.md:1-10",
+            "line_end": 10,
+            "line_start": 1,
+            "matched_terms": [
+              "storage"
+            ],
+            "path": "000000000004444c5dc75cb358380d2e3de08a90.md",
+            "score": 0.48875126,
+            "sha256": "f5f2e0f247f6f13719086bde4fc536821fc859406f939e1eafceb97b83dc8358",
+            "source_verified": true,
+            "text": "# Ethereum account proof result\nAddress: 0x000000000004444c5dc75cb358380d2e3de08a90\nBlock number (decimal): 26212390\nCheckpoint, canonicality and finality require independent authentication.\nRaw storage slots are not interpreted as price, decimals or token balance.\nStored code identity does not establish source or execution behavior.\n```json\n{\n  \"account\": {\n    \"state\": {"
+          },
+          {
+            "citation": "d782bdea4ef02a0bd391eb9089470c8080f0a68e.md:1-10",
+            "line_end": 10,
+            "line_start": 1,
+            "matched_terms": [
+              "storage"
+            ],
+            "path": "d782bdea4ef02a0bd391eb9089470c8080f0a68e.md",
+            "score": 0.48875126,
+            "sha256": "1038dacf5518b723f65fd89fbc34068dfdf764be00333893c183f0a8d9aa1f15",
+            "source_verified": true,
+            "text": "# Ethereum account proof result\nAddress: 0xd782bdea4ef02a0bd391eb9089470c8080f0a68e\nBlock number (decimal): 26212390\nCheckpoint, canonicality and finality require independent authentication.\nRaw storage slots are not interpreted as price, decimals or token balance.\nStored code identity does not establish source or execution behavior.\n```json\n{\n  \"account\": {\n    \"code\": {"
+          }
+        ],
+        "indexed_documents": 2,
+        "indexed_passages": 11,
+        "query": "storage value",
+        "require_all": false,
+        "terms": [
+          "storage",
+          "value"
+        ]
+      },
+      "trust": "Every listed account and slot is proven against one header matching the supplied hash. The caller must authenticate that hash, chain, canonicality and finality independently. Code checks establish stored byte identity only, not source, ABI, layout, proxy targets or behavior."
+    }
+  }
+}

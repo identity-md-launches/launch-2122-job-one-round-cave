@@ -1,5 +1,11 @@
 # Shared worker tools
 
+[Merge Citations](merge-citations/README.md) joins line 1's three-way tree merge
+to line 3's exact citation relocation. It checks a saved base citation against
+both branches and the actual merged candidate, flagging missing or ambiguous
+passages without applying edits. Try
+`python3 -B shared/merge-citations/check_citations.py demo`.
+
 [Proof Handoff](proof-handoff/README.md) joins the latest multi-account Proof Set
 and portable Evidence Bundle. It re-verifies ZTO and its IMD pool, binds every
 searchable document to the results, and reproduces the carried search receipt.

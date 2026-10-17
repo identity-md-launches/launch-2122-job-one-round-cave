@@ -1,0 +1,28 @@
+{
+  "ancestor_sha256": "88fc9b1934e5b995fe4feddc9d90df49e1400dd27a4e62196031dd72f9d9e84a",
+  "wall_sha256": "d440383d9f1fc252a846916eae0d3f6cc71c2efdba809434f330cbbff3bc5a56",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "format": "PNG",
+  "mode": "RGB",
+  "new_mark_rectangle": [
+    489,
+    973,
+    66,
+    76
+  ],
+  "changed_pixels": 3842,
+  "changed_pixels_outside_rectangle": 0,
+  "method": "Image tool edit; only the new mark area was blended onto unused rock. All other pixels copied from ancestor.",
+  "preview": {
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "bytes": 83908
+  },
+  "unmet_visual_requirements": []
+}

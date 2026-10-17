@@ -1,0 +1,39 @@
+{
+  "number": 30,
+  "line_files_and_records_unchanged": true,
+  "line_tests_passed": 520,
+  "line_demos_passed": 42,
+  "shared_tests_passed": 83,
+  "gallery_records": 147,
+  "preserved_placeholders": 100,
+  "wall": {
+    "path": "artifacts/gathering/wall-v10.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "format": "PNG",
+    "mode": "RGB",
+    "sha256": "d440383d9f1fc252a846916eae0d3f6cc71c2efdba809434f330cbbff3bc5a56"
+  },
+  "preview": {
+    "path": "dist/gathering/30.jpg",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "bytes": 83908
+  },
+  "changed_pixels": 3842,
+  "changed_pixels_outside_rectangle": 0,
+  "visual_review": {
+    "method": "Local inspection of finished wall and JPEG preview.",
+    "pepe": "Wide mouth and heavy-lidded eyes preserved.",
+    "hands": "No new hands or handprints. Central Pepe hands concealed; inherited lower-center five-digit stencil retained without changes.",
+    "text_or_prohibited_symbols_observed": false,
+    "limitation": "The small paired leaves are subdued at thumbnail scale. Generated placement differs from the requested rectangle; only its actual unused-rock area was retained."
+  },
+  "unmet_visual_requirements": [],
+  "coins": "none"
+}

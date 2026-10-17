@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "records": 147,
+  "groups": 5,
+  "placeholders": 100,
+  "newest_gathering": 30,
+  "descending_order": true,
+  "toggle_and_image_fallback": true,
+  "external_script_or_style_dependencies": false,
+  "method": "Executed inline script against a minimal DOM; no full-browser layout or network image-loading claim."
+}

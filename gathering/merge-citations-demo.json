@@ -1,0 +1,155 @@
+{
+  "format": "merge-citations/v1",
+  "status": "ready-for-review",
+  "path": "zto.md",
+  "base_anchor_verified": true,
+  "text_merge_clean": true,
+  "inputs": {
+    "base": {
+      "sha256": "2f4373cc4cba86685e47e555413b94f827331359be086af78b181faf2e1c384d",
+      "files": 1,
+      "directories": 0,
+      "bytes": 672
+    },
+    "ours": {
+      "sha256": "31067eb4ddc4c910b3219d63a25f7a5d09a49dd1c80151830f8318b79cdb8529",
+      "files": 1,
+      "directories": 0,
+      "bytes": 688
+    },
+    "theirs": {
+      "sha256": "d52f199af2fe265603c272954a5340517e263cc2f1645bc0073a6fcac74f952f",
+      "files": 1,
+      "directories": 0,
+      "bytes": 728
+    }
+  },
+  "conflicted_paths": [],
+  "merge_status": "merged",
+  "candidate_sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e",
+  "branches": {
+    "base": {
+      "format": "citation-reanchor-result/v1",
+      "status": "unchanged",
+      "original_citation": "zto.md:3-6",
+      "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+      "current_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+      "source_hash_matches": true,
+      "unique_current_citation": {
+        "path": "zto.md",
+        "line_start": 3,
+        "line_end": 6,
+        "citation": "zto.md:3-6",
+        "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009"
+      },
+      "match_count": 1,
+      "candidates": [
+        {
+          "path": "zto.md",
+          "line_start": 3,
+          "line_end": 6,
+          "citation": "zto.md:3-6",
+          "sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009"
+        }
+      ],
+      "candidates_truncated": false,
+      "scope": "saved line range",
+      "source_verified": false
+    },
+    "ours": {
+      "format": "citation-reanchor-result/v1",
+      "status": "relocated",
+      "original_citation": "zto.md:3-6",
+      "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+      "current_sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e",
+      "source_hash_matches": false,
+      "unique_current_citation": {
+        "path": "zto.md",
+        "line_start": 5,
+        "line_end": 8,
+        "citation": "zto.md:5-8",
+        "sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e"
+      },
+      "match_count": 1,
+      "candidates": [
+        {
+          "path": "zto.md",
+          "line_start": 5,
+          "line_end": 8,
+          "citation": "zto.md:5-8",
+          "sha256": "3d61376af5f08a3ca99ba1befb8b280f193a0f529f905648d97dd73e4addd25e"
+        }
+      ],
+      "candidates_truncated": false,
+      "scope": "all exact line occurrences in same path",
+      "source_verified": false
+    },
+    "theirs": {
+      "format": "citation-reanchor-result/v1",
+      "status": "same_lines_changed_source",
+      "original_citation": "zto.md:3-6",
+      "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+      "current_sha256": "04df31877333480f30e3e9b1c667ad5f6c72f8aeb628d63f0780fb90be86b60a",
+      "source_hash_matches": false,
+      "unique_current_citation": {
+        "path": "zto.md",
+        "line_start": 3,
+        "line_end": 6,
+        "citation": "zto.md:3-6",
+        "sha256": "04df31877333480f30e3e9b1c667ad5f6c72f8aeb628d63f0780fb90be86b60a"
+      },
+      "match_count": 1,
+      "candidates": [
+        {
+          "path": "zto.md",
+          "line_start": 3,
+          "line_end": 6,
+          "citation": "zto.md:3-6",
+          "sha256": "04df31877333480f30e3e9b1c667ad5f6c72f8aeb628d63f0780fb90be86b60a"
+        }
+      ],
+      "candidates_truncated": false,
+      "scope": "all exact line occurrences in same path",
+      "source_verified": false
+    }
+  },
+  "candidate": {
+    "format": "citation-reanchor-result/v1",
+    "status": "relocated",
+    "original_citation": "zto.md:3-6",
+    "original_sha256": "03a74a78fa9fd52080b1b21385dafb47dc07c2422ff2e6ff327cbf3d94da8009",
+    "current_sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e",
+    "source_hash_matches": false,
+    "unique_current_citation": {
+      "path": "zto.md",
+      "line_start": 5,
+      "line_end": 8,
+      "citation": "zto.md:5-8",
+      "sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e"
+    },
+    "match_count": 1,
+    "candidates": [
+      {
+        "path": "zto.md",
+        "line_start": 5,
+        "line_end": 8,
+        "citation": "zto.md:5-8",
+        "sha256": "9181a125efa181ee12d354134e144b753b78b81d555f5fed0b2830ecdb6b9d9e"
+      }
+    ],
+    "candidates_truncated": false,
+    "scope": "all exact line occurrences in same path",
+    "source_verified": false
+  },
+  "candidate_diff_from_base": "--- BASE\n+++ CANDIDATE\n@@ -1,3 +1,5 @@\n+# Reading copy\n+\n # ZTO on Ethereum\n \n ZTO token name: Zero To One.\n@@ -13,3 +15,5 @@\n The companion zto-mainnet.json contains the raw eth_call results and retrieval time.\n This is a recorded RPC observation, not an independent proof or a current quote.\n Use exact integer token units for accounting; search results do not authorize a payment.\n+\n+Review historical observations before relying on them.\n",
+  "limits": [
+    "Suggestions refer to a recomputed in-memory candidate, never an applied file.",
+    "An intact excerpt may have a changed meaning in its new context; review it.",
+    "The saved anchor must match the supplied base bytes and original line range.",
+    "No author authentication, factual verification, semantic merge or approval.",
+    "Exact complete-line matching; only LF/CRLF endings normalize.",
+    "Stable bounded UTF-8 trees only; no atomic snapshot or race protection.",
+    "No files are written, no documents executed, and no network is used."
+  ],
+  "demo": "Real historical ZTO document with two illustrative edits in memory. No new chain observation and no files applied."
+}
